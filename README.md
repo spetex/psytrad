@@ -6,8 +6,11 @@ Created for [Quantitative Finance Meetup](https://www.meetup.com/Prague-Quantita
 
 1.  Social Psychology: Leon Festinger
     1.  [Cognitive Disonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)
+        - Festinger, L. (1957). A Theory of Cognitive Dissonance. Stanford, CA: Stanford University Press.
     1.  [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
 1.  Cognitive Psychology: [Decision Making](https://en.wikipedia.org/wiki/Decision-making)
+    - Sternberg, R. (). [Cognitive Psychology](https://www.goodreads.com/book/show/1127139.Cognitive_Psychology)
+    - Michael Eysenck: [Cognitive Psychology](https://www.goodreads.com/book/show/1333897.Cognitive_Psychology)
 1.  Behavioral Economics: Dan Ariely, Kahneman & Tversky
     - [Predictably Irrational: The Hidden Forces That Shape Our Decisions ](https://www.goodreads.com/book/show/1713426.Predictably_Irrational)
     - [The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home ](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality)
