@@ -31,6 +31,7 @@ Quantitative Finance Meetup (Praha)
  - **Vnější** - chyby přisuzejem vnějším okolnostem
  - **Iluze kontroly:** přisuzování kladných výsledků svému intelektu
  - **Základní atribuční chyba**
+ - **Zkreslení sloužící sobě**
 
 ---
 
@@ -46,10 +47,16 @@ Quantitative Finance Meetup (Praha)
  - Popularizátor behaviorální ekonomie
  - **Kniha:** Jak drahé je zdarma?
  - **Kniha:** Jak drahá je intuice?
- - Přednášky na TED
+ - Přednášky nodkazya TED
 
 
 ![Dan Ariely](./pictures/dan-ariely.jpeg)
+
+---
+
+Hans and Ola Rosling: How not to be ignorat about the world
+
+https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world
 
 ---
 
@@ -62,16 +69,97 @@ Quantitative Finance Meetup (Praha)
 
 ---
 
-# Kognitivní zkreslení
-  - Availability heuristic
-  - Base rate fallacy
-  - Gambler's fallacy
-  - Conjunction fallacy
-  - Clustering illusion
-  - Atribute substitution
-  - Self-serving bias
-  - Independence of irrelevant alternatives
-  - Ambiquity aversion
-  - Ellsberg paradox
-  - Skewed distributions
-  - Survivorship bias
+# Ve které struktuře je více cest?
+![Cesty](./pictures/cesty.png)
+
+---
+
+# Heuristika dostupnosti
+  - Kahneman & Tversky
+  - věci které jsou okamžitě zřejmé
+  - upřednostňování informací, které si lze snado vybavit
+  - pokud nás to napadlo tak to musí být důležité
+
+---
+
+![Alkohol Tester](./pictures/alkohol.jpeg)
+
+---
+
+# Base rate fallacy
+  - 1 řidič je opilý (100% jistota)
+  - 999 řidičů není opilých (5% false positive => 49.95)
+  - 1/(1 + 49.95) => 0.019627
+  - Bayesova věta
+  - konkrétním informacím přisuzujeme větší váhu
+  - Kahneman a Tversky: důkaz nedokonalosti naší mysli
+
+---
+
+![Roullete](./pictures/roullete.jpeg)
+
+---
+
+# Gambler's fallacy
+  - teď nevyhrávám, musí se to otočit, štěstí se usměje
+  - pokud se něco děje více často, bude se to dít méně často a naopak
+  - malé vzorky jsou reprezentací populace
+
+---
+
+# Conjunction fallacy
+
+**RGRRR**
+
+**GRGRRR**
+
+**GRRRRR**
+
+---
+
+# Conjunction fallacy
+
+  - Reprezentativnost
+  - Pravděpodobnost výskytu jevu je vždy vyšší než pravděpodobnost výskytu dvou jevů současně
+  - Occamova břitva?
+
+---
+
+# Clustering illusion
+
+![Texas](./pictures/texas.jpeg)
+ - Texas Sharpshooter
+ - Podobnosti v datech jsou vyzdvihovány a rozdíly ignorovány
+ - Falešné pravidelnosti
+
+---
+
+# Clustering illusion
+
+  - Lidé falešně identifikují vzory tam kde nejsou
+  - False positive mi umožní přežít
+  - Podhodnocování variability u malých náhodných vzorků
+
+
+---
+
+# Risk Aversion
+  - Volíme konzervativnější alternativy. Ménší risk, ale i výdělek.
+# Ambiquity aversion (Ellsberg Paradox)
+  - V krabici je 30 červenych a 60 žlutych nebo černych (poměr neznáme) míčků
+  - Hra1: Pokud vytáhneš červený míček dostaneš $100.
+  - Hra1: Pokud si vytáhneš černý míček dostaneš $100.
+  - Hra2: Pokud si vytáhneš červený nebo žlutý míček dostaneš 100$.
+  - Hra2: Pokud si vytáhneš černý nebo žlutý míček dostaneš 100$.
+
+
+---
+
+![Cat](./pictures/cat.jpeg)
+
+---
+
+# Survivorship bias
+  - Usuzujeme pouze na základě úspěšných příkladů
+  - Neexistující, dávno zkrachovalé společnosti nejsou započítávány do finanční analyzy
+  - Ignorování všech neúspěšných pokusů
