@@ -37,7 +37,9 @@ Quantitative Finance Meetup (Praha)
 
 # Behaviorální ekonomie
  - Proč a jak se lidé ekonomicky rozhodují?
- - Psychologie, ekonomie, matematika
+ - Kognitivní a sociální psychologie
+ - Ekonomie, matematika
+ - Heuristiky, přerámování, tržní anomálie
  - Studium kognitivních zkreslení v ekonomickém rozhodování
 ![Behavioral Economics](./pictures/behavioral-economics.jpeg)
 
@@ -47,14 +49,16 @@ Quantitative Finance Meetup (Praha)
  - Popularizátor behaviorální ekonomie
  - **Kniha:** Jak drahé je zdarma?
  - **Kniha:** Jak drahá je intuice?
- - Přednášky nodkazya TED
+ - Přednášky na TED
 
 
 ![Dan Ariely](./pictures/dan-ariely.jpeg)
 
 ---
+**Malcolm Gladwell**: Tipping Point, Outliers, Blink
 
-Hans and Ola Rosling: How not to be ignorat about the world
+
+**Hans and Ola Rosling:** How not to be ignorant about the world
 
 https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world
 
@@ -75,10 +79,12 @@ https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_
 ---
 
 # Heuristika dostupnosti
-  - Kahneman & Tversky
   - věci které jsou okamžitě zřejmé
   - upřednostňování informací, které si lze snado vybavit
   - pokud nás to napadlo tak to musí být důležité
+  - silnější neuronová spojení -> líbí se nám to co vídáme často
+  - neposuzujeme všechny informace stejnou měrou
+  - "oblíbená teorie"
 
 ---
 
@@ -120,7 +126,9 @@ https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_
 # Conjunction fallacy
 
   - Reprezentativnost
-  - Pravděpodobnost výskytu jevu je vždy vyšší než pravděpodobnost výskytu dvou jevů současně
+  - Pravděpodobnost výskytu jevu je vždy vyšší než **p** výskytu dvou jevů současně
+  - Specifičtější informace je lépe představitelná
+  - Linda
   - Occamova břitva?
 
 ---
@@ -128,7 +136,7 @@ https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_
 # Clustering illusion
 
 ![Texas](./pictures/texas.jpeg)
- - Texas Sharpshooter
+ - Texaský Ostrostřelec (Sharpshooter)
  - Podobnosti v datech jsou vyzdvihovány a rozdíly ignorovány
  - Falešné pravidelnosti
 
@@ -144,14 +152,20 @@ https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_
 ---
 
 # Risk Aversion
-  - Volíme konzervativnější alternativy. Ménší risk, ale i výdělek.
+  - Volíme konzervaivnější alternativy. Ménší risk, ale i výdělek.
+  - Snaha o redukci nejistoty
+  - risk-averse, risk-neutral, risk-loving
+  - Hod mincí $50 a $100
+
+---
+
+
 # Ambiquity aversion (Ellsberg Paradox)
   - V krabici je 30 červenych a 60 žlutych nebo černych (poměr neznáme) míčků
   - Hra1: Pokud vytáhneš červený míček dostaneš $100.
   - Hra1: Pokud si vytáhneš černý míček dostaneš $100.
   - Hra2: Pokud si vytáhneš červený nebo žlutý míček dostaneš 100$.
   - Hra2: Pokud si vytáhneš černý nebo žlutý míček dostaneš 100$.
-
 
 ---
 
