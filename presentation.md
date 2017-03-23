@@ -100,6 +100,7 @@ https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_
   - Bayesova věta
   - konkrétním informacím přisuzujeme větší váhu
   - Kahneman a Tversky: důkaz nedokonalosti naší mysli
+  - Prosecutor's Fallacy
 
 ---
 
