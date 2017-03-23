@@ -41,6 +41,7 @@ Quantitative Finance Meetup (Praha)
  - Ekonomie, matematika
  - Heuristiky, přerámování, tržní anomálie
  - Studium kognitivních zkreslení v ekonomickém rozhodování
+ - Odhady pravděpodobnostních jevů
 ![Behavioral Economics](./pictures/behavioral-economics.jpeg)
 
 ---
