@@ -109,9 +109,12 @@ https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_
 ---
 
 # Gambler's fallacy
-  - teď nevyhrávám, musí se to otočit, štěstí se usměje
-  - pokud se něco děje více často, bude se to dít méně často a naopak
-  - malé vzorky jsou reprezentací populace
+  - teď nevyhrávám, musí se to otočit, jinak to není reprezentativní
+  - opakovaný výskyt jevu musí bezpodmínečně vést k opakovanému výskytu jevu opačného
+  - důvěra v malé vzorky
+  - pár lidí v autobuse reprezentuje populaci
+  - pohlaví dětí, nechráněný sex
+  - funkční řešení: oddělit opakování od předchozí sekvence
 
 ---
 
